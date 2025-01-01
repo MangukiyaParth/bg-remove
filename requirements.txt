@@ -1,0 +1,9 @@
+fastapi
+shutil
+os
+io
+spaces
+torch
+torchvision
+transformers
+loadimg
