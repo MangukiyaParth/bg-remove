@@ -1,2 +1,5 @@
 /processed_uploads
 /uploads
+/venv
+.vscode/launch.json
+__pycache__/main.cpython-312.pyc

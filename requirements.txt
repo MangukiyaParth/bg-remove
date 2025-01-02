@@ -4,3 +4,7 @@ torch
 torchvision
 transformers
 loadimg
+kornia 
+einops 
+timm
+sse-starlette
